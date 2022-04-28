@@ -1,0 +1,49 @@
+.main{
+    outline: dashed orangered;
+    background-color: yellow;
+    width: 40%;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 15%;
+    padding: 20px;
+    box-shadow: 5px 5px 5px 5px;
+    float: left;
+}
+#num1 ,#num3{
+    width: 50%;
+    margin-top: 10px;
+    padding: 10px;
+}
+#num2{
+    width: 30%;
+    padding: 10px;
+   margin-top: 10px;
+}
+#num4,#num5{
+    width: 50%;
+    margin-top: 10px;
+    padding: 10px;
+}
+.questions-1{
+    float: left;
+    outline: dashed orangered;
+    width: 10%;
+    margin-left: 10px;
+    padding: 10px;
+   
+}
+.questions-2{
+    float:right;
+    outline: dashed orangered;
+    width: 10%;
+    margin-left: 10px;
+    padding: 10px
+}
+.button{
+    text-align: center;
+    padding:5px;
+    border-radius: 10px;
+    margin-top: 5%;
+    width: 100%;
+    overflow: hidden;
+}
